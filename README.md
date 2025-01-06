@@ -41,7 +41,7 @@
 ### Steps
 
 1. **Download the Executable JAR:**
-   - Navigate to the [Releases](https://github.com/yourusername/ModrinthDownloader/releases) section of this repository and download the latest `ModrinthDownloader-1.0.0.jar` file.
+   - Navigate to the [Releases](https://github.com/luiS1q1/ModrinthDownloader/releases/tag/Release) section of this repository and download the latest `ModrinthDownloader-1.0.0.jar` file.
 
 2. **Verify Java Installation:**
    - Ensure Java 17 or above is installed on your system. Use the following command to check:
